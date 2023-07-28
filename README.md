@@ -2,7 +2,7 @@
 
 # asdf-protoc-gen-connect-go [![Build](https://github.com/dylanrayboss/asdf-protoc-gen-connect-go/actions/workflows/build.yml/badge.svg)](https://github.com/dylanrayboss/asdf-protoc-gen-connect-go/actions/workflows/build.yml) [![Lint](https://github.com/dylanrayboss/asdf-protoc-gen-connect-go/actions/workflows/lint.yml/badge.svg)](https://github.com/dylanrayboss/asdf-protoc-gen-connect-go/actions/workflows/lint.yml)
 
-[protoc-gen-connect-go](https://github.com/bufbuild/connect-go) plugin for the [asdf version manager](https://asdf-vm.com).
+[protoc-gen-connect-go](https://github.com/connectrpc/connect-go) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
