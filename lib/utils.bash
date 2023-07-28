@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-GO_PACKAGE="github.com/connectrpc/connect-go/cmd/protoc-gen-connect-go"
+GO_PACKAGE="connectrpc.com/connect/cmd/protoc-gen-connect-go"
 GH_REPO="https://github.com/connectrpc/connect-go"
 TOOL_NAME="protoc-gen-connect-go"
 TOOL_TEST="protoc-gen-connect-go --version"
