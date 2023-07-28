@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/dylanrayboss/asdf-protoc-gen-connect-go/compare/v1.0.1...v1.0.2) (2023-07-28)
+
+
+### Bug Fixes
+
+* **connect:** fixes connect import path ([aff5bce](https://github.com/dylanrayboss/asdf-protoc-gen-connect-go/commit/aff5bced9d356dcd891e49911c84cb977ed2c662))
+
 ## [1.0.1](https://github.com/dylanrayboss/asdf-protoc-gen-connect-go/compare/v1.0.0...v1.0.1) (2023-07-28)
 
 
